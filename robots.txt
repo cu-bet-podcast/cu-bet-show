@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cu-bet-podcast.github.io/cu-bet-show/sitemap.xml

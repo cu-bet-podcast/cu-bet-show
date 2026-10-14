@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>씨유벳</title>
+    <link>https://cu-bet-podcast.github.io/cu-bet-show/</link>
+    <description>씨유벳은 온라인 후기와 소개 글을 읽을 때 놓치기 쉬운 출처와 맥락을 정리하는 콘텐츠입니다. 누가 작성했는지, 언제 공개했는지, 직접 확인한 내용이 어디까지인지를 나누어 살펴봅니다. 짧은 화면 캡처나 강조된 한 문장만으로 전체 상황을 판단하지 않도록 읽기 노트를 제공합니다. 씨유벳의 소개 글은 사실과 의견을 구분하는 데 초점을 맞추며, 특정 서비스의 이용 결과나 안전성을 보장하지 않습니다. 현재 첫 회차는 짧은 연주 음원이며, 위 주제의 설명은 텍스트로 제공합니다.</description>
+    <language>ko</language>
+    <lastBuildDate>Wed, 14 Oct 2026 10:36:03 GMT</lastBuildDate>
+    <atom:link href="https://cu-bet-podcast.github.io/cu-bet-show/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>씨유벳</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>씨유벳</itunes:name>
+      <itunes:email>hoangvandan22101988@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://cu-bet-podcast.github.io/cu-bet-show/cover.jpg" />
+    <itunes:category>Music</itunes:category>
+    <image>
+      <url>https://cu-bet-podcast.github.io/cu-bet-show/cover.jpg</url>
+      <title>씨유벳</title>
+      <link>https://cu-bet-podcast.github.io/cu-bet-show/</link>
+    </image>
+    <item>
+      <title>씨유벳 · 첫 번째 사운드</title>
+      <description>씨유벳의 시작을 알리는 약 33초의 짧은 연주 트랙입니다. 말로 진행하는 회차가 아니며, 후기의 출처와 맥락을 살피는 읽기 노트는 소개 페이지에서 별도로 제공합니다.</description>
+      <link>https://cu-bet-podcast.github.io/cu-bet-show/#episode-001</link>
+      <guid isPermaLink="false">brand-show-20261014-cu-bet-001</guid>
+      <pubDate>Wed, 14 Oct 2026 10:36:03 GMT</pubDate>
+      <enclosure url="https://cu-bet-podcast.github.io/cu-bet-show/opening.mp3" length="780588" type="audio/mpeg" />
+      <itunes:duration>00:00:33</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>
